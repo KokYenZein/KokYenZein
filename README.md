@@ -5,12 +5,12 @@
 
 ### About Me
 
-- 💼 I'm a mathematics student at the University of Waterloo.
+- 💼 I'm a Data Engineer at Unravel Carbon in Kuala Lumpur, building and migrating pipelines on Snowflake, Prefect, dbt and Elasticsearch.
+- 🎓 I graduated from the University of Waterloo in 2024 with an Honours Mathematics degree in Statistics and Computational Math.
 - 🌟 You can call me YZ.
-- 📊 I'm passionate about big data and its potential to transform industries.
-- 🚀 I aspire to become a data engineer, data scientist, and Machine Learning Engineer, leveraging the power of data to drive insights and innovation.
-- 📖 Currently, I'm diving deeper into AI tools such as LangChain and Hugging Face to learn how generative AI can adhere to a specific topic.
-- 🌐 I'm currently focusing on AWS Data Engineering Specialty to master the art of cloud-based data solutions.
+- 🏦 Before this I interned at GXBank (BI and data analytics) and Asecure Group (data engineering).
+- 🤖 Lately I've been working on tooling that lets AI agents work safely with warehouse data over MCP.
+- ☁️ AWS Certified Solutions Architect Associate.
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
